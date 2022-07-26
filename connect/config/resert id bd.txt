@@ -1,0 +1,3 @@
+ALTER TABLE `bd`.`table` DROP `id`
+
+ALTER TABLE `bd`.`table` ADD `id` INT(255) NOT NULL AUTO_INCREMENT FIRST, ADD PRIMARY KEY (`id`)

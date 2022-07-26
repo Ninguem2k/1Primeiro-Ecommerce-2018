@@ -1,0 +1,11 @@
+.menu ul ul{
+	display: none;
+}
+
+.menu ul li:hover > ul{
+	display:block;
+}
+.text-cor-amarelo{
+    text-decoration-color: yellow;
+
+}
